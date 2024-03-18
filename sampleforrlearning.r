@@ -9,7 +9,7 @@
 
 # this is a comment 
 #for i in (1:6) print(1:i) 
-initAVar <- "this is assign value operator"
+initAVar <- "this is assign value operator!"
 # ?print() to print the help for "print"
 # our old friend print()
 print(initAVar)
@@ -36,6 +36,8 @@ class(initAVar)
 # "*" is the symbol for multiplication
 hoursPerWeek <- hoursPerDay * daysPerWeek
 hoursPerWeek
+# running this block will pull up the documentation page for the print() function
+?print()
 
 # %% [markdown]
 # 
